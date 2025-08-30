@@ -5,6 +5,7 @@ Predicting which customers are at risk of leaving a business is a powerful way t
 
 
 🚀 Project Overview
+
 	•	Goal: Build a machine learning model that predicts whether a bank customer will leave (churn) or stay, based on their data.
 	•	Techniques: Uses a Multilayer Perceptron (MLP) implemented in Keras/TensorFlow.
 	•	Dataset: Real-world bank customer data featuring attributes like geography, age, account balance, tenure, products, and more.
