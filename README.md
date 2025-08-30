@@ -25,9 +25,8 @@ Predicting which customers are at risk of leaving a business is a powerful way t
 📂 Project Structure
 
      .
-     ├── data/               # (Add your dataset here)
-     ├── images/             # (Store result charts & figures)
-     ├── churn_model.py      # Core python code/model
+     ├── Churn_Modelling.csv/               # (Add your dataset here)
+     ├── churn.py      # Core python code/model
      ├── README.md
      └── requirements.txt    # List of dependencies
 
